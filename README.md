@@ -1,2 +1,2 @@
 # server_bozuk
-bunu yazan tosun okuyana kosun
+oyun serveri. iki oyun clienti arasında iletişimi salıyor. 
